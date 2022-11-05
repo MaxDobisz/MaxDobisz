@@ -1,5 +1,8 @@
-<h1 align="center" style="color:red">HELLO</h1>
-<div align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100" height="100" align="center" /> <div/>
+<header align="center">
+  <div align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100" height="100" align="center"/></div>
+  <h1 align="center">HELLO</h1>
+</header>
+
 <img align="center" src="https://us.lifelovingfoods.com/wp-content/uploads/2020/12/under-construction-gif-11.gif" width="100%" height="100%"/>
 
 
