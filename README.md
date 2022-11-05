@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1 align="center" style="color:red">HELLO</h1>
+<div align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100" height="100" align="center" /> <div/>
+<img align="center" src="https://us.lifelovingfoods.com/wp-content/uploads/2020/12/under-construction-gif-11.gif" width="100%" height="100%"/>
+
 
 <!--
-**MaxDobisz/MaxDobisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MaxDobisz/MaxDobisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.](https://www.google.com/url?sa=i&url=https%3A%2F%2Foctodex.github.com%2F&psig=AOvVaw2BEYmE5eS3NvNWRrLR7qLH&ust=1667753700882000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi67e3Al_sCFQAAAAAdAAAAABAF)
 
 Here are some ideas to get you started:
 
