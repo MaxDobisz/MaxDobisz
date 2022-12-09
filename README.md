@@ -4,6 +4,8 @@
   
  ## Tech enthusiast passionate about web development.
  
+ :small_blue_diamond: I enjoy sports, especially martial arts (BJJ :purple_heart:)
+ 
  :small_blue_diamond: 🌱 Currently learning Type Script.
  
  :small_blue_diamond: :computer: *Building personal projects.*
