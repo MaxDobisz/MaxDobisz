@@ -24,7 +24,7 @@
   
 <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MaxDobisz&theme=python-dark&border_radius=30)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MaxDobisz&theme=python-dark&border_radius=30)](https://github.com/MaxDobisz)
 
 </div>
 
