@@ -6,7 +6,7 @@
  
  :small_blue_diamond: :surfer: Besides coding, I enjoy sports, especially martial arts (BJJ 💜)
  
- :small_blue_diamond: :ferris_wheel: I'm a bit of an adrenaline junkie.
+ :small_blue_diamond: :ferris_wheel: I'm a bit of an adrenaline junkie
  
  
    ![dreamJump](https://user-images.githubusercontent.com/94841011/206703014-a5814c85-003b-4fb1-9973-dd0bb84d37ae.gif)
@@ -14,11 +14,11 @@
  :small_blue_diamond: :books: If I hadn't discovered programming I would have become a bookworm
  
  
- :small_blue_diamond: 🌱 Currently learning Type Script.
+ :small_blue_diamond: 🌱 Currently learning Type Script
  
- :small_blue_diamond: :computer: *Building personal projects.*
+ :small_blue_diamond: :computer: *Building personal projects*
  
- :small_blue_diamond:  :video_game: Playing katas in free time. ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+ :small_blue_diamond:  :video_game: Playing katas in free time ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
  
  :small_blue_diamond: :busts_in_silhouette: Always ready to collaborate
  
