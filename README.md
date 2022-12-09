@@ -6,6 +6,14 @@
  
  :small_blue_diamond: I enjoy sports, especially martial arts (BJJ :purple_heart:)
  
+ :small_blue_diamond: I'm a bit of an adrenaline junkie.
+ 
+ 
+   ![dreamJump](https://user-images.githubusercontent.com/94841011/206703014-a5814c85-003b-4fb1-9973-dd0bb84d37ae.gif)
+
+ 
+ 
+ 
  :small_blue_diamond: 🌱 Currently learning Type Script.
  
  :small_blue_diamond: :computer: *Building personal projects.*
