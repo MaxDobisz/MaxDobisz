@@ -4,14 +4,14 @@
   
  ## Tech enthusiast passionate about web development.
  
- :small_blue_diamond: I enjoy sports, especially martial arts (BJJ :purple_heart:)
+ :small_blue_diamond: :surfer: Besides coding, I enjoy sports, especially martial arts (BJJ 💜)
  
- :small_blue_diamond: I'm a bit of an adrenaline junkie.
+ :small_blue_diamond: :ferris_wheel: I'm a bit of an adrenaline junkie.
  
  
    ![dreamJump](https://user-images.githubusercontent.com/94841011/206703014-a5814c85-003b-4fb1-9973-dd0bb84d37ae.gif)
 
- 
+ :small_blue_diamond: :books: If I hadn't discovered programming I would have become a bookworm
  
  
  :small_blue_diamond: 🌱 Currently learning Type Script.
