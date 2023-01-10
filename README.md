@@ -13,9 +13,6 @@
 
  :small_blue_diamond: :books: If I hadn't discovered programming I would have become a bookworm
  
- 
- :small_blue_diamond: 🌱 Currently learning Type Script
- 
  :small_blue_diamond: :computer: *Building personal projects*
  
  :small_blue_diamond:  :video_game: Playing katas in free time [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Max5)
