@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=6000&pause=1000&color=0096FF&center=true&vCenter=true&multiline=true&width=999&height=104&lines=Welcome+To+My+GitHub+Profile+!;I'm+Max%2C+a+web+developer+based+in+Cambridge+UK.)](https://git.io/typing-svg)
   
- ## Tech enthusiast passionate about web development.
+ <div align="center"> 
+  
+  ## Tech enthusiast passionate about web development.  
+
+</div>
  
  :small_blue_diamond: :surfer: Besides coding, I enjoy sports, especially martial arts (BJJ 💜)
  
