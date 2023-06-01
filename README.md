@@ -4,7 +4,7 @@
   
  <div align="center"> 
   
-  ## Tech enthusiast passionate about web development.  
+  ## Tech enthusiast passionate about coding and software development.  
 
 </div>
  
