@@ -8,28 +8,28 @@
 
 </div>
  
- :small_blue_diamond: :surfer: Besides coding, I enjoy sports, especially martial arts (BJJ 💜)
+ :small_blue_diamond: :surfer:  Outside of coding, I'm passionate about sports, particularly martial arts (BJJ 💜)
  
- :small_blue_diamond: :ferris_wheel: I'm a bit of an adrenaline junkie
+ :small_blue_diamond: :ferris_wheel: I've got a bit of an adrenaline junkie streak
  
  
    ![dreamJump](https://user-images.githubusercontent.com/94841011/206703014-a5814c85-003b-4fb1-9973-dd0bb84d37ae.gif)
 
- :small_blue_diamond: :books: If I hadn't discovered programming I would have become a bookworm
+ :small_blue_diamond: :books: If I hadn't discovered programming, I'd probably be a dedicated bookworm
  
- :small_blue_diamond: :computer: *Building personal projects*
+ :small_blue_diamond: :computer: Actively building personal projects
  
- :small_blue_diamond:  :video_game: Playing katas in free time [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Max5)
+ :small_blue_diamond:  :video_game: Enjoy solving katas in my free time on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Max5)
  
- :small_blue_diamond: :busts_in_silhouette: Always ready to collaborate
+ :small_blue_diamond: :busts_in_silhouette:  I'm always open to collaboration
  
- :small_blue_diamond: :raising_hand: Ask me about anything and everything!
+ :small_blue_diamond: :raising_hand: Feel free to ask me anything and everything!
  
- :small_blue_diamond: :grimacing: Fun fact: I quit my job to have time for code  
+ :small_blue_diamond: :grimacing: Fun fact: I quit my job to dedicate more time to coding  
 
- :small_blue_diamond: :incoming_envelope: let's get in touch! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdobisz/)
+ :small_blue_diamond: :incoming_envelope:  Let's connect! Find me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdobisz/)
  
- :small_blue_diamond: 👇 Check out my repos
+ :small_blue_diamond: 👇 Check out my repos below
  
  <div align="center">
   
